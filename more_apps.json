@@ -15,12 +15,24 @@
     },
 
     {
-      "name": "NERF Epic Pranks",
-      "number_download": "500.000 download",
+      "name": "PK XD ",
+      "number_download": "5.000.000 download",
+      "icon": "https://lh3.googleusercontent.com/buLAfra3X3ecFZvp-4iiFBJ22YwwdaaB3IxU0ESEVdTeGljUyKaN58Pv2VTrRvGKWRM=s180",
+      "package": "com.pkguide.gamexd.nexd.tipss"
+    },
+    {
+      "name": "NERF epic pranks 2",
+      "number_download": "5.000.000 download",
       "icon": "https://lh3.googleusercontent.com/sVp5O8SSq2v4iae8lDBLbXOtLYVuIynCyZ3M_wIaIHJ5x7M_MP-LR8HCUPLzhyy_E5c=s180",
       "package": "com.guidepranks.gamenerf.newepic.tipss"
-   }
-  ]
+    },
+   
+    { 
+      "name": "Repair Master 3D ",
+      "number_download": "1.000.000 download",
+      "icon": "https://lh3.googleusercontent.com/zsYb-MwVphhsupTWs61Id9YuwLmSN5pXjhBayEa-CB5lpnURXQMzqQ8Mo43kVO0pAygu=s180",
+      "package": "com.guiderepair.mastertips.dtricks.free"
+    },
  
    
 
