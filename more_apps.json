@@ -2,40 +2,13 @@
   "more_apps": [
 
    {
-    "name": "NERF Epic Pranks Guide",
-    "number_download": "5.000.000 download",
-    "icon": "https://lh3.googleusercontent.com/_Aeab3ONgm1dBG7DWbn1wkUjgWJDogj4BPRrMkf3tbqgKyITOgvFuIAL_AO5z8h3cg=s180",
-    "package": "com.guideepic.nerfgame.newpranks.tricks"
+    "name": "",
+    "number_download": "",
+    "icon": "",
+    "package": ""
    },
-    {
-      "name": "Totally Reliable Delivery ",
-      "number_download": "1.000.000 download",
-      "icon": "https://lh3.googleusercontent.com/PdejlowUAuqKBRQw1NJbzBK-1-FL3r9f9HzEialmVkwMJ7c-8EftL5soRCeD4hapb30=s180",
-      "package": "com.serviceguide.totallynew.reliablefree.delivery"
-    },
-
-    {
-      "name": "PK XD ",
-      "number_download": "5.000.000 download",
-      "icon": "https://lh3.googleusercontent.com/buLAfra3X3ecFZvp-4iiFBJ22YwwdaaB3IxU0ESEVdTeGljUyKaN58Pv2VTrRvGKWRM=s180",
-      "package": "com.pkguide.gamexd.nexd.tipss"
-    },
-    {
-      "name": "NERF epic pranks 2",
-      "number_download": "5.000.000 download",
-      "icon": "https://lh3.googleusercontent.com/sVp5O8SSq2v4iae8lDBLbXOtLYVuIynCyZ3M_wIaIHJ5x7M_MP-LR8HCUPLzhyy_E5c=s180",
-      "package": "com.guidepranks.gamenerf.newepic.tipss"
-    },
+    
    
-    { 
-      "name": "Repair Master 3D ",
-      "number_download": "1.000.000 download",
-      "icon": "https://lh3.googleusercontent.com/zsYb-MwVphhsupTWs61Id9YuwLmSN5pXjhBayEa-CB5lpnURXQMzqQ8Mo43kVO0pAygu=s180",
-      "package": "com.guiderepair.mastertips.dtricks.free"
-    },
- 
-   ]
+  ]
 
 }
-
- 
